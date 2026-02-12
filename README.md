@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Behrokh</h1>
 
 <p align="center">
-  💻  Frontend Developer in Progress  
+  💻 Frontend Developer in Progress<br>
   ⚡ Building. Learning. Improving.
 </p>
 
@@ -9,11 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=behrokh-dev&color=blue" alt="profile views" />
 </p>
 
+---
+
 ## 🩷 About Me
 
 <p align="center">
-I’m passionate about building clean, responsive and modern web interfaces.  
-Currently mastering the fundamentals and moving toward advanced frontend development.  
+I’m passionate about building clean, responsive and modern web interfaces.<br>
+Currently mastering the fundamentals and moving toward advanced frontend development.<br>
 My mission is simple: write clean code, build beautiful UI, and grow every single day.
 </p>
 
@@ -26,7 +28,7 @@ My mission is simple: write clean code, build beautiful UI, and grow every singl
 </p>
 
 <p align="center">
-HTML • CSS • JavaScript • React • Next.js  
+HTML • CSS • JavaScript • React • Next.js<br>
 Git & GitHub • Responsive Design • UI/UX Basics
 </p>
 
@@ -35,9 +37,9 @@ Git & GitHub • Responsive Design • UI/UX Basics
 ## 🌟 Current Focus
 
 <p align="center">
-• Strong JavaScript fundamentals  
-• Modern React ecosystem  
-• Performance & clean architecture  
+• Strong JavaScript fundamentals<br>
+• Modern React ecosystem<br>
+• Performance & clean architecture<br>
 • Becoming a professional Frontend Engineer
 </p>
 
@@ -45,9 +47,9 @@ Git & GitHub • Responsive Design • UI/UX Basics
 
 ## 📊 GitHub Stats
 
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=behrokh-dev&show_icons=true&theme=light)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=behrokh-dev&show_icons=true&theme=light" alt="GitHub Stats" />
+</p>
 
 ---
 
