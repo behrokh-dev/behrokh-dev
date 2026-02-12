@@ -1,57 +1,65 @@
-# Behrokh
+<h1 align="center">Hey 👋 I'm Behrokh</h1>
 
-Frontend Developer
-
----
-
-## About Me
-
-I am a frontend developer focused on building clean, responsive, and user-centered web applications.  
-Currently strengthening my core skills while continuously expanding my knowledge toward modern frontend technologies and best practices.
-
-My goal is to grow into a highly skilled frontend engineer capable of building scalable and performant web applications.
+<p align="center">
+  🚀 Frontend Developer in Progress  
+  💻 Future React Engineer  
+  ⚡ Building. Learning. Improving.
+</p>
 
 ---
 
-## Tech Stack
+## 🙋‍♂️ About Me
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,next,git,github,vscode)
-
-### Core Technologies
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-
-### Frontend & Tools
-- React.js  
-- Next.js  
-- Git & GitHub  
-- Responsive Design  
-- UI / UX Fundamentals  
+<p align="center">
+I’m passionate about building clean, responsive and modern web interfaces.  
+Currently mastering the fundamentals and moving toward advanced frontend development.  
+My mission is simple: write clean code, build beautiful UI, and grow every single day.
+</p>
 
 ---
 
-## Current Focus
+## 🛠 Tech Stack
 
-- Writing semantic and accessible HTML  
-- Building responsive layouts  
-- Improving JavaScript fundamentals  
-- Learning the modern React ecosystem  
-- Clean code & performance optimization  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,git,github,vscode" />
+</p>
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behrokh-dev&show_icons=true&hide_border=true)
+<p align="center">
+HTML • CSS • JavaScript • React • Next.js  
+Git & GitHub • Responsive Design • UI/UX Basics
+</p>
 
 ---
 
-## Contact
+## 🎯 Current Focus
 
-- 📧 Email: your-email@gmail.com  
-- 📷 Instagram: https://instagram.com/your-id  
+<p align="center">
+• Strong JavaScript fundamentals  
+• Modern React ecosystem  
+• Performance & clean architecture  
+• Becoming a professional Frontend Engineer
+</p>
 
 ---
 
-Building. Learning. Improving.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=behrokh-dev&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+📧 your-email@gmail.com  
+📷 https://instagram.com/your-id
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile 🤝</b>
+</p>
+
