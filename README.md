@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🩷 About Me
 
 <p align="center">
 I’m passionate about building clean, responsive and modern web interfaces.  
@@ -53,8 +53,8 @@ Git & GitHub • Responsive Design • UI/UX Basics
 ## 📫 Connect With Me
 
 <p align="center">
-📧 your-email@gmail.com  
-📷 https://instagram.com/your-id
+📧 naderibehrokh@gmail.com  
+📷 https://instagram.com/naderii_dev
 </p>
 
 ---
