@@ -1,27 +1,43 @@
-<h1 align="center">Hi 👋, I'm Behrokh</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=behrokhnaderi&label=Profile%20views&color=0e75b6&style=flat" alt="behrokhnaderi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behrokhnaderi" alt="behrokhnaderi" /></a> </p>
-
-- 🌱 I’m currently learning **HTML5 & CSS3, JAVASCRIPT**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Behrokh-dev)
-
-- 💬 Ask me about **HTML5 & CSS3**
-
-- 📫 How to reach me **[Gmail](https://www.naderibehrokh@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Behrokh</h1>
+<p align="center">
+  Frontend Developer (in progress)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Behrokh-dev&show_icons=true&locale=en&layout=compact" alt="behrokhnaderi" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Behrokh-dev&show_icons=true&locale=en" alt="behrokhnaderi" /></p>
+I am a motivated frontend developer currently focused on building clean and responsive web interfaces using HTML and CSS.  
+I am continuously improving my skills and working toward becoming a professional frontend engineer.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Behrokh-dev&" alt="behrokhnaderi" /></p>
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+### Current Focus
+
+- Writing semantic HTML
+- Building responsive layouts
+- Improving UI structure and design fundamentals
+- Preparing to learn JavaScript
+
+---
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=behrokh-dev&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+### Contact
+
+- 📧 Email: your-email@gmail.com  
+- 📷 Instagram: https://instagram.com/your-id
