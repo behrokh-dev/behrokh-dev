@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋 I'm Behrokh</h1>
 
 <p align="center">
-  🚀 Frontend Developer in Progress  
-  💻 Future React Engineer  
+  💻  Frontend Developer in Progress  
   ⚡ Building. Learning. Improving.
 </p>
 
@@ -31,7 +30,7 @@ Git & GitHub • Responsive Design • UI/UX Basics
 
 ---
 
-## 🎯 Current Focus
+## 🌟 Current Focus
 
 <p align="center">
 • Strong JavaScript fundamentals  
@@ -50,11 +49,11 @@ Git & GitHub • Responsive Design • UI/UX Basics
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:naderibehrokh@gmail.com">Email</a> •
-  <a href="https://instagram.com/naderii_dev">Instagram</a>
+ 📧 <a href="mailto:naderibehrokh@gmail.com">Email</a> •
+ 📷 <a href="https://instagram.com/naderii_dev">Instagram</a>
 </p>
 
 ---
