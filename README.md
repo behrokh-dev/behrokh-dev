@@ -45,9 +45,9 @@ Git & GitHub • Responsive Design • UI/UX Basics
 
 ## 📊 GitHub Stats
 
-<p align="center">
+
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=behrokh-dev&show_icons=true&theme=light)
-</p>
+
 
 ---
 
