@@ -53,8 +53,8 @@ Git & GitHub • Responsive Design • UI/UX Basics
 ## 📫 Connect With Me
 
 <p align="center">
-📧  [Gmail](https://www.naderibehrokh@gmail.com)
-📷 [Instagram](https://instagram.com/naderii_dev) 
+📧  [Gmail](mailto:naderibehrokh@gmail.com)  
+📷 [Instagram](https://instagram.com/naderii_dev)
 </p>
 
 ---
